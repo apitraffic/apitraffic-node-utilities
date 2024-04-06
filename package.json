@@ -1,0 +1,22 @@
+{
+  "name": "@apitraffic/utilities",
+  "version": "0.0.1",
+  "description": "Utilities that are included in all the node framework sdks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apitraffic/apitraffic-node-utilities.git"
+  },
+  "author": "Jason Fill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apitraffic/apitraffic-node-utilities/issues"
+  },
+  "homepage": "https://github.com/apitraffic/apitraffic-node-utilities#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
