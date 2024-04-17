@@ -1,6 +1,6 @@
 {
   "name": "@apitraffic/utilities",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Utilities that are included in all the node framework sdks.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/apitraffic/apitraffic-node-utilities#readme",
   "dependencies": {
-    "@apitraffic/javascript-helpers": "^0.0.1",
+    "@apitraffic/javascript-helpers": "^0.0.2",
     "axios": "^1.6.8"
   }
 }
