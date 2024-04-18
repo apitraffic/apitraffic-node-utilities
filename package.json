@@ -1,6 +1,6 @@
 {
   "name": "@apitraffic/utilities",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Utilities that are included in all the node framework sdks.",
   "main": "index.js",
   "scripts": {
