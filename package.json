@@ -20,6 +20,8 @@
   "homepage": "https://github.com/apitraffic/apitraffic-node-utilities#readme",
   "dependencies": {
     "@apitraffic/javascript-helpers": "^0.0.4",
+    "@gr2m/http-interceptor": "^1.0.0",
+    "@mswjs/interceptors": "^0.28.3",
     "axios": "^1.6.8"
   }
 }
