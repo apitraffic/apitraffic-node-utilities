@@ -1,6 +1,6 @@
 {
   "name": "@apitraffic/utilities",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Utilities that are included in all the node framework sdks.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/apitraffic/apitraffic-node-utilities.git"
   },
-  "author": "Jason Fill",
+  "author": "ApiTraffic.io <sdk@apitraffic.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/apitraffic/apitraffic-node-utilities/issues"
@@ -22,6 +22,7 @@
     "@apitraffic/javascript-helpers": "^0.0.4",
     "@gr2m/http-interceptor": "^1.0.0",
     "@mswjs/interceptors": "^0.28.3",
-    "axios": "^1.6.8"
+    "axios": "^1.6.8",
+    "zlib": "^1.0.5"
   }
 }
