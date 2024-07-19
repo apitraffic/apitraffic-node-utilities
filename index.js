@@ -4,6 +4,7 @@ const handleResponseBody = require('./lib/handleResponseBody');
 const outboundInterception = require('./lib/outboundInterception');
 const setup = require('./lib/setup');
 const config = require('./lib/config');
+const RequestManager = require('./lib/RequestManager');
 
 module.exports = {
     getDuration,
@@ -11,5 +12,6 @@ module.exports = {
     handleResponseBody,
     outboundInterception,
     setup,
-    config
+    config,
+    RequestManager
 }
