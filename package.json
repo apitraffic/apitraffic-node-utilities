@@ -23,6 +23,6 @@
     "@gr2m/http-interceptor": "^1.0.0",
     "@mswjs/interceptors": "^0.28.3",
     "axios": "^1.6.8",
-    "zlib": "^1.0.5"
+    "pako": "^2.1.0"
   }
 }
